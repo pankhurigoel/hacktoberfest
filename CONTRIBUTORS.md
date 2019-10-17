@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Psnkhuri Goel](https://github.com/pankhurigoel)
+- Place: Mysore, India
+- Bio: Web developer React/Redux
+- Github: [pankhurigoel](https://github.com/pankhurigoel)
